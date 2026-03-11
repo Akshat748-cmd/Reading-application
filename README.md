@@ -8,9 +8,10 @@
 
 Watch the demo of the Reading Application:
 
-[▶ Click here to watch the demo](## 🎥 Demo Video
+[▶ Click here to watch the demo]
 
 [![Watch Demo](https://github.com/Akshat748-cmd/Reading-application/raw/main/assets/Screenshot%202026-03-11%20163605.png)](https://github.com/Akshat748-cmd/Reading-application/raw/main/assets/wildfire(1).mp4))
+[watch here](https://github.com/Akshat748-cmd/Reading-application/raw/main/assets/wildfire(1).mp4)
 
 ---
 
