@@ -1,0 +1,5 @@
+{
+  "name": "MindReader",
+  "description": "An AI-powered reading application that transforms text into interactive visual mind maps.",
+  "requestFramePermissions": []
+}
